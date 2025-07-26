@@ -17,7 +17,7 @@ This project focuses on downloading, processing, and analyzing global COVID-19 d
 
 - Data is likely pulled from public repositories like [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) or APIs like:
   - `https://covid19api.com`
-  - WHO or ECDC datasets (if applicable)
+  - WHO or ECDC datasets
 
 > **Note:** If you're using live APIs, make sure to cite them in your repo or include a `data/` folder for static versions.
 
