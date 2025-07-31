@@ -47,4 +47,4 @@ Includes various types of charts:
 - Time-series growth trend visualizations
 
 ## How to Run
-[Click here to open goggle colab file].(https://colab.research.google.com/drive/1B7YBXceFnTrlfUnLigi7sLh9odRQcN82?usp=sharing)
+[Click here to open goggle colab file].(https://colab.research.google.com/drive/1VjRgqhbHWT4_NAfps6wQKh4O5NiZsTew?usp=sharing)
